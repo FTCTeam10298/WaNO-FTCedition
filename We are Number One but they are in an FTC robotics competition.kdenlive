@@ -516,6 +516,23 @@
   <property name="kdenlive:file_size">8309047</property>
   <property name="kdenlive:file_hash">86f932224cd18c36d5222c0ed74e688f</property>
  </producer>
+ <producer id="19" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/qwerty/Downloads/FIRST-FTC'17-VelocityVortex-Qualcomm/FIRSTTechChallenge-IconVertical/FIRSTTech_IconVert_RGB.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">612</property>
+  <property name="meta.media.height">482</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">79442</property>
+  <property name="kdenlive:file_hash">656c26e4d7b4083e0e8f87801dac98d2</property>
+ </producer>
  <playlist id="main bin">
   <property name="kdenlive:docproperties.audiotargettrack">5</property>
   <property name="kdenlive:docproperties.decimalPoint">.</property>
@@ -526,8 +543,8 @@
   <property name="kdenlive:docproperties.generateimageproxy">0</property>
   <property name="kdenlive:docproperties.generateproxy">0</property>
   <property name="kdenlive:docproperties.kdenliveversion">16.12.1</property>
-  <property name="kdenlive:docproperties.position">5005</property>
-  <property name="kdenlive:docproperties.previewchunks">1650,1675,1700,1725,1750,1775,1800,1825,1850,1875,1900,4075,4100,4125,4150,4175,4200,4225,4250</property>
+  <property name="kdenlive:docproperties.position">142</property>
+  <property name="kdenlive:docproperties.previewchunks"/>
   <property name="kdenlive:docproperties.previewextension">mov</property>
   <property name="kdenlive:docproperties.previewparameters">r=29.97 s=1920x1080 vb=45M threads=0 vcodec=dnxhd</property>
   <property name="kdenlive:docproperties.profile">atsc_1080p_2997</property>
@@ -538,9 +555,9 @@
   <property name="kdenlive:docproperties.version">0.95</property>
   <property name="kdenlive:docproperties.verticalzoom">1</property>
   <property name="kdenlive:docproperties.videotargettrack">5</property>
-  <property name="kdenlive:docproperties.zonein">4077</property>
-  <property name="kdenlive:docproperties.zoneout">4262</property>
-  <property name="kdenlive:docproperties.zoom">7</property>
+  <property name="kdenlive:docproperties.zonein">165</property>
+  <property name="kdenlive:docproperties.zoneout">242</property>
+  <property name="kdenlive:docproperties.zoom">4</property>
   <property name="kdenlive:documentnotes"/>
   <property name="kdenlive:clipgroups"/>
   <property name="kdenlive:docproperties.renderaudioquality">7</property>
@@ -581,6 +598,7 @@
   <entry out="149" producer="16" in="0"/>
   <entry out="149" producer="17" in="0"/>
   <entry out="149" producer="18" in="0"/>
+  <entry out="149" producer="19" in="0"/>
  </playlist>
  <producer id="black" out="48604" in="0">
   <property name="length">48605</property>
@@ -589,6 +607,9 @@
   <property name="aspect_ratio">0</property>
   <property name="mlt_service">colour</property>
   <property name="set.test_audio">0</property>
+  <property name="movit.convert.width">1920</property>
+  <property name="movit.convert.height">1080</property>
+  <property name="movit.convert.format">2</property>
  </producer>
  <playlist id="black_track">
   <entry out="5112" producer="black" in="0"/>
@@ -1013,6 +1034,9 @@
   <property name="meta.media.height">1080</property>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
+  <property name="movit.convert.width">1920</property>
+  <property name="movit.convert.height">1080</property>
+  <property name="movit.convert.format">2</property>
  </producer>
  <playlist id="playlist7">
   <property name="kdenlive:track_name">Video 2</property>
@@ -1064,7 +1088,29 @@
  <playlist id="playlist8">
   <property name="kdenlive:track_name">Video 3</property>
   <property name="kdenlive:locked_track">0</property>
-  <blank length="226"/>
+  <blank length="178"/>
+  <entry out="34" producer="19" in="0">
+   <filter id="movit.rect">
+    <property name="rect">0=438 62 1096 949 1</property>
+    <property name="fill">1</property>
+    <property name="distort">0</property>
+    <property name="mlt_service">movit.rect</property>
+    <property name="kdenlive_id">movit.rect</property>
+    <property name="tag">movit.rect</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+   </filter>
+   <filter id="movit.opacity">
+    <property name="opacity">0=0;19=1</property>
+    <property name="alpha">-1</property>
+    <property name="mlt_service">movit.opacity</property>
+    <property name="kdenlive_id">movit.opacity</property>
+    <property name="tag">movit.opacity</property>
+    <property name="kdenlive_ix">2</property>
+    <property name="kdenlive_info"/>
+   </filter>
+  </entry>
+  <blank length="13"/>
   <entry out="18387" producer="10_playlist8" in="13624"/>
  </playlist>
  <producer id="13_playlist9" title="Anonymous Submission" out="399" in="0">
