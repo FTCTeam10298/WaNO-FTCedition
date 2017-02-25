@@ -45,8 +45,8 @@
   <property name="kdenlive:file_hash">1e057729f8c9d69d36a400bbd71f0afd</property>
   <property name="global_feed">1</property>
  </producer>
- <producer id="3" title="Anonymous Submission" out="5050" in="0">
-  <property name="length">00:02:48;15</property>
+ <producer id="3" title="Anonymous Submission" out="5049" in="0">
+  <property name="length">00:02:48;14</property>
   <property name="eof">pause</property>
   <property name="resource">/home/qwerty/Downloads/LazyTown - We are Number One Music Video - DASH.webm</property>
   <property name="audio_index">-1</property>
@@ -118,8 +118,8 @@
   <property name="kdenlive:file_hash">036edbc2860e93d6638f26be55523052</property>
   <property name="global_feed">1</property>
  </producer>
- <producer id="6" title="Anonymous Submission" out="575" in="0">
-  <property name="length">00:00:19;06</property>
+ <producer id="6" title="Anonymous Submission" out="574" in="0">
+  <property name="length">00:00:19;05</property>
   <property name="eof">pause</property>
   <property name="resource">/home/qwerty/Downloads/20687233.mp3</property>
   <property name="audio_index">0</property>
@@ -147,8 +147,8 @@
   <property name="kdenlive:file_hash">3dd9edbb3e4ec26d1b115e35df58eeb1</property>
   <property name="global_feed">1</property>
  </producer>
- <producer id="7" title="Anonymous Submission" out="533" in="0">
-  <property name="length">00:00:17;24</property>
+ <producer id="7" title="Anonymous Submission" out="532" in="0">
+  <property name="length">00:00:17;23</property>
   <property name="eof">pause</property>
   <property name="resource">/home/qwerty/Downloads/20688444.mp3</property>
   <property name="audio_index">0</property>
@@ -176,8 +176,8 @@
   <property name="kdenlive:file_hash">c42e4771264baff00b5c70bb34e153a2</property>
   <property name="global_feed">1</property>
  </producer>
- <producer id="8" title="Anonymous Submission" out="5051" in="0">
-  <property name="length">00:02:48;16</property>
+ <producer id="8" title="Anonymous Submission" out="5050" in="0">
+  <property name="length">00:02:48;15</property>
   <property name="eof">pause</property>
   <property name="resource">/home/qwerty/Downloads/LazyTown - We are Number One Music Video 720p 192kbps.mp4</property>
   <property name="audio_index">1</property>
@@ -231,8 +231,8 @@
   <property name="kdenlive:file_hash">b2a556daca7312c39b40907137028d5c</property>
   <property name="global_feed">1</property>
  </producer>
- <producer id="9" title="Anonymous Submission" out="5055" in="0">
-  <property name="length">00:02:48;20</property>
+ <producer id="9" title="Anonymous Submission" out="5054" in="0">
+  <property name="length">00:02:48;19</property>
   <property name="eof">pause</property>
   <property name="resource">/home/qwerty/Desktop/LazyTown - We are Number One Music Video.m4a</property>
   <property name="audio_index">0</property>
@@ -258,8 +258,8 @@
   <property name="kdenlive:file_hash">ec515e2ce835e6d053eb6310a51939cb</property>
   <property name="global_feed">1</property>
  </producer>
- <producer id="10" title="Anonymous Submission" out="43101" in="0">
-  <property name="length">00:23:58;04</property>
+ <producer id="10" title="Anonymous Submission" out="43100" in="0">
+  <property name="length">00:23:58;03</property>
   <property name="eof">pause</property>
   <property name="resource">/home/qwerty/LazyTown We Are Number One FULL EPISODE - Robbie's Dream Team - Season 4 Full Episode Music Video - DASH.webm</property>
   <property name="audio_index">-1</property>
@@ -1185,8 +1185,8 @@
   <property name="kdenlive:file_hash">03450a72dfdb630a36e220686ab48b0f</property>
   <property name="global_feed">1</property>
  </producer>
- <producer id="56" title="Anonymous Submission" out="6810" in="0">
-  <property name="length">00:03:47;07</property>
+ <producer id="56" title="Anonymous Submission" out="6809" in="0">
+  <property name="length">00:03:47;06</property>
   <property name="eof">pause</property>
   <property name="resource">LA FTC Inter-League Tournament (Zone D and I) - Qualification Match 34 - DASH.mp4</property>
   <property name="audio_index">-1</property>
@@ -1347,7 +1347,7 @@
   <property name="kdenlive:meta.media.progressive">1</property>
  </producer>
  <producer id="54" title="Anonymous Submission" out="7366" in="0">
-  <property name="length">00:04:06;25</property>
+  <property name="length">00:04:06;26</property>
   <property name="eof">pause</property>
   <property name="resource">/home/qwerty/.cache/kdenlive/proxy/f748af6495257956dd67cd85d38e9530.mpg</property>
   <property name="meta.media.nb_streams">2</property>
@@ -1446,8 +1446,8 @@
   <property name="kdenlive:meta.media.top_field_first">0</property>
   <property name="kdenlive:meta.media.progressive">1</property>
  </producer>
- <producer id="52" title="Anonymous Submission" out="8572" in="0">
-  <property name="length">00:04:46;01</property>
+ <producer id="52" title="Anonymous Submission" out="8571" in="0">
+  <property name="length">00:04:46;00</property>
   <property name="eof">pause</property>
   <property name="resource">/home/qwerty/.cache/kdenlive/proxy/0636cda4ac9341628c8a2c1afe5ee0f0.mpg</property>
   <property name="meta.media.nb_streams">2</property>
@@ -1642,7 +1642,7 @@
   <property name="global_feed">1</property>
  </producer>
  <producer id="61" title="Anonymous Submission" out="1368" in="0">
-  <property name="length">00:00:45;20</property>
+  <property name="length">00:00:45;19</property>
   <property name="eof">pause</property>
   <property name="resource">/home/qwerty/.cache/kdenlive/proxy/01f6c1a09539ffe86eed48d4ea1956d0.mpg</property>
   <property name="meta.media.nb_streams">2</property>
@@ -1737,6 +1737,23 @@
   <property name="kdenlive:meta.media.width">3840</property>
   <property name="kdenlive:meta.media.height">2160</property>
  </producer>
+ <producer id="62" out="149" in="0">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">end.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">244791</property>
+  <property name="kdenlive:file_hash">6e854da8e0a41778914e69939d51f840</property>
+ </producer>
  <playlist id="main bin">
   <property name="kdenlive:docproperties.audiotargettrack">5</property>
   <property name="kdenlive:docproperties.decimalPoint">.</property>
@@ -1747,7 +1764,7 @@
   <property name="kdenlive:docproperties.generateimageproxy">0</property>
   <property name="kdenlive:docproperties.generateproxy">0</property>
   <property name="kdenlive:docproperties.kdenliveversion">16.12.2</property>
-  <property name="kdenlive:docproperties.position">1822</property>
+  <property name="kdenlive:docproperties.position">5112</property>
   <property name="kdenlive:docproperties.previewchunks">0,25,150,175,200,225,2175,2200,2225,2250,2275,2300,2325,2350,2375,2400,2425,2450,2475,2500,2525,2550,2575,2600,2625,2650,2675,2700,2725,2750,2775,2800,2825,2850,2875,2900,2925,2950,2975,3000,3025,3050,3075,3100,3125,3150,3175,3200,3225,3250,3275,3300,3325,3350,3375,3400,3425,3450,3475,3500,3525,3550,3575,3600,3625,3650,3675,3700,3725,3750,3775,3800,3825,3850,3875,3900,3925,3950,3975,4000,4025,4050,4075,4100,4125</property>
   <property name="kdenlive:docproperties.previewextension">mov</property>
   <property name="kdenlive:docproperties.previewparameters">r=29.97 s=1920x1080 vb=45M threads=0 vcodec=dnxhd</property>
@@ -1787,13 +1804,13 @@
   <property name="xml_retain">1</property>
   <entry out="4306" producer="1" in="0"/>
   <entry out="4306" producer="2" in="0"/>
-  <entry out="5050" producer="3" in="0"/>
+  <entry out="5049" producer="3" in="0"/>
   <entry out="149" producer="4" in="0"/>
-  <entry out="575" producer="6" in="0"/>
-  <entry out="533" producer="7" in="0"/>
-  <entry out="5051" producer="8" in="0"/>
-  <entry out="5055" producer="9" in="0"/>
-  <entry out="43101" producer="10" in="0"/>
+  <entry out="574" producer="6" in="0"/>
+  <entry out="532" producer="7" in="0"/>
+  <entry out="5050" producer="8" in="0"/>
+  <entry out="5054" producer="9" in="0"/>
+  <entry out="43100" producer="10" in="0"/>
   <entry out="131" producer="11" in="0"/>
   <entry out="59" producer="12" in="0"/>
   <entry out="55" producer="14" in="0"/>
@@ -1835,16 +1852,17 @@
   <entry out="71" producer="53" in="0"/>
   <entry out="149" producer="55" in="0"/>
   <blank length="149"/>
-  <entry out="6810" producer="56" in="0"/>
+  <entry out="6809" producer="56" in="0"/>
   <entry out="149" producer="57" in="0"/>
   <entry out="399" producer="13" in="0"/>
   <entry out="7366" producer="54" in="0"/>
-  <entry out="8572" producer="52" in="0"/>
+  <entry out="8571" producer="52" in="0"/>
   <entry out="59" producer="58" in="0"/>
   <entry out="15" producer="59" in="0"/>
   <entry out="149" producer="51" in="0"/>
   <entry out="149" producer="60" in="0"/>
   <entry out="1368" producer="61" in="0"/>
+  <entry out="149" producer="62" in="0"/>
  </playlist>
  <producer id="black" out="48604" in="0">
   <property name="length">48605</property>
@@ -3114,6 +3132,7 @@
    </filter>
   </entry>
   <entry out="18387" producer="10_playlist8" in="13624"/>
+  <entry out="105" producer="62" in="0"/>
  </playlist>
  <producer id="13_playlist9" title="Anonymous Submission" out="399" in="0">
   <property name="length">00:00:13;10</property>
